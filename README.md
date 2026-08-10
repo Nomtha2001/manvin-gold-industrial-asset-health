@@ -2,7 +2,7 @@
 A Power BI-based industrial asset health and maintenance decision-support prototype for mining and process-plant environments.
 
 # Manvin Gold Dashboard 
-![MANVIN GOLD Industrial Asset Health Dashboard](MANVIN DASHBOARD.PNG)
+![MANVIN GOLD Industrial Asset Health Dashboard](manvin-dashboard.PNG)
 
 # Current Status
 Working prototype using simulated industrial telemetry.
