@@ -1,6 +1,9 @@
 # MANVIN GOLD — Industrial Asset Health & Reliability Monitoring
 A Power BI-based industrial asset health and maintenance decision-support prototype for mining and process-plant environments.
 
+# Manvin Gold Dashboard 
+!![MANVIN GOLD Industrial Asset Health Dashboard](IMG_1449.png)
+
 # Current Status
 Working prototype using simulated industrial telemetry.
 MANVIN GOLD demonstrates how industrial equipment data can be transformed into actionable information for maintenance, reliability, operations and process-safety decision-making.
